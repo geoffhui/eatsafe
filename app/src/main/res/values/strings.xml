@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">EatSafe</string>
+    <string name="restaurant_name">Temp Name</string>
+    <string name="potential_grade">A</string>
+    <string name="current_grade">B</string>
+    <string name="infraction">Infraction Details</string>
+    <string name="title_activity_maps">Map</string>
+
+    <string name="search">Search</string>
+    <string name="mapType">Toggle Type</string>
+    <string name="zoomIn">+</string>
+    <string name="zoomOut">-</string>
+    <string name="custom">Custom Map</string>
+    <string name="current_location">Current Location</string>
+    <string name="title_activity_tmp">Map</string>
+    <string name="back">Back</string>
+    <string name="map">Map</string>
+</resources>

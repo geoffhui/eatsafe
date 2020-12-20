@@ -1,0 +1,156 @@
+{"data":[
+  {
+    "TrackingNumber": "A013601    ",
+    "InspectionDate": "20200127",
+    "InspType": "Routine",
+    "NumCritical": 0,
+    "NumNonCritical": 3,
+    "HazardRating": "Low",
+    "ViolLump": "307,Not Critical,Equipment/utensils/food contact surfaces are not of suitable design/material [s. 16; s. 19],Not Repeat|308,Not Critical,Equipment/utensils/food contact surfaces are not in good working order [s. 16(b)],Not Repeat|315,Not Critical,Refrigeration units and hot holding equipment lack accurate thermometers [s. 19(2)],Not Repeat",
+    "PHYSICALADDRESS": "11940 Old Yale Rd",
+    "NAME": "Brownsville Bar Marine Pub"
+  },
+  {
+    "TrackingNumber": "A013601    ",
+    "InspectionDate": "20190924",
+    "InspType": "Routine",
+    "NumCritical": 0,
+    "NumNonCritical": 2,
+    "HazardRating": "Low",
+    "ViolLump": "212,Not Critical,Operator has not provided acceptable written food handling procedures [s. 23],Not Repeat|306,Not Critical,Food premises not maintained in a sanitary condition [s. 17(1)],Not Repeat",
+    "PHYSICALADDRESS": "11940 Old Yale Rd",
+    "NAME": "Brownsville Bar Marine Pub"
+  },
+  {
+    "TrackingNumber": "A013601    ",
+    "InspectionDate": "20190709",
+    "InspType": "Follow-Up",
+    "NumCritical": 0,
+    "NumNonCritical": 0,
+    "HazardRating": "Low",
+    "ViolLump": "",
+    "PHYSICALADDRESS": "11940 Old Yale Rd",
+    "NAME": "Brownsville Bar Marine Pub"
+  },
+  {
+    "TrackingNumber": "A013601    ",
+    "InspectionDate": "20190628",
+    "InspType": "Follow-Up",
+    "NumCritical": 0,
+    "NumNonCritical": 1,
+    "HazardRating": "Low",
+    "ViolLump": "209,Not Critical,Food not protected from contamination [s. 12(a)],Not Repeat",
+    "PHYSICALADDRESS": "11940 Old Yale Rd",
+    "NAME": "Brownsville Bar Marine Pub"
+  },
+  {
+    "TrackingNumber": "A013601    ",
+    "InspectionDate": "20190624",
+    "InspType": "Follow-Up",
+    "NumCritical": 0,
+    "NumNonCritical": 2,
+    "HazardRating": "Low",
+    "ViolLump": "209,Not Critical,Food not protected from contamination [s. 12(a)],Not Repeat|306,Not Critical,Food premises not maintained in a sanitary condition [s. 17(1)],Not Repeat",
+    "PHYSICALADDRESS": "11940 Old Yale Rd",
+    "NAME": "Brownsville Bar Marine Pub"
+  },
+  {
+    "TrackingNumber": "A013601    ",
+    "InspectionDate": "20190618",
+    "InspType": "Follow-Up",
+    "NumCritical": 0,
+    "NumNonCritical": 0,
+    "HazardRating": "Low",
+    "ViolLump": "",
+    "PHYSICALADDRESS": "11940 Old Yale Rd",
+    "NAME": "Brownsville Bar Marine Pub"
+  },
+  {
+    "TrackingNumber": "A013601    ",
+    "InspectionDate": "20190617",
+    "InspType": "Routine",
+    "NumCritical": 2,
+    "NumNonCritical": 4,
+    "HazardRating": "Moderate",
+    "ViolLump": "301,Critical,Equipment/utensils/food contact surfaces not maintained in sanitary condition [s. 17(1)],Not Repeat|302,Critical,Equipment/utensils/food contact surfaces not properly washed and sanitized [s. 17(2)],Not Repeat|304,Not Critical,Premises not free of pests [s. 26(a)],Not Repeat|306,Not Critical,Food premises not maintained in a sanitary condition [s. 17(1)],Not Repeat|308,Not Critical,Equipment/utensils/food contact surfaces are not in good working order [s. 16(b)],Not Repeat|315,Not Critical,Refrigeration units and hot holding equipment lack accurate thermometers [s. 19(2)],Not Repeat",
+    "PHYSICALADDRESS": "11940 Old Yale Rd",
+    "NAME": "Brownsville Bar Marine Pub"
+  },
+  {
+    "TrackingNumber": "A013601    ",
+    "InspectionDate": "20190306",
+    "InspType": "Routine",
+    "NumCritical": 1,
+    "NumNonCritical": 2,
+    "HazardRating": "Low",
+    "ViolLump": "209,Not Critical,Food not protected from contamination [s. 12(a)],Not Repeat|301,Critical,Equipment/utensils/food contact surfaces not maintained in sanitary condition [s. 17(1)],Not Repeat|306,Not Critical,Food premises not maintained in a sanitary condition [s. 17(1)],Not Repeat",
+    "PHYSICALADDRESS": "11940 Old Yale Rd",
+    "NAME": "Brownsville Bar Marine Pub"
+  },
+  {
+    "TrackingNumber": "A013601    ",
+    "InspectionDate": "20181206",
+    "InspType": "Follow-Up",
+    "NumCritical": 0,
+    "NumNonCritical": 1,
+    "HazardRating": "Low",
+    "ViolLump": "315,Not Critical,Refrigeration units and hot holding equipment lack accurate thermometers [s. 19(2)],Not Repeat",
+    "PHYSICALADDRESS": "11940 Old Yale Rd",
+    "NAME": "Brownsville Bar Marine Pub"
+  },
+  {
+    "TrackingNumber": "A013601    ",
+    "InspectionDate": "20181127",
+    "InspType": "Routine",
+    "NumCritical": 1,
+    "NumNonCritical": 5,
+    "HazardRating": "Moderate",
+    "ViolLump": "209,Not Critical,Food not protected from contamination [s. 12(a)],Not Repeat|212,Not Critical,Operator has not provided acceptable written food handling procedures [s. 23],Not Repeat|302,Critical,Equipment/utensils/food contact surfaces not properly washed and sanitized [s. 17(2)],Not Repeat|304,Not Critical,Premises not free of pests [s. 26(a)],Not Repeat|306,Not Critical,Food premises not maintained in a sanitary condition [s. 17(1)],Not Repeat|315,Not Critical,Refrigeration units and hot holding equipment lack accurate thermometers [s. 19(2)],Not Repeat",
+    "PHYSICALADDRESS": "11940 Old Yale Rd",
+    "NAME": "Brownsville Bar Marine Pub"
+  },
+  {
+    "TrackingNumber": "A013601    ",
+    "InspectionDate": "20180709",
+    "InspType": "Follow-Up",
+    "NumCritical": 0,
+    "NumNonCritical": 0,
+    "HazardRating": "Low",
+    "ViolLump": "",
+    "PHYSICALADDRESS": "11940 Old Yale Rd",
+    "NAME": "Brownsville Bar Marine Pub"
+  },
+  {
+    "TrackingNumber": "A013601    ",
+    "InspectionDate": "20180706",
+    "InspType": "Routine",
+    "NumCritical": 3,
+    "NumNonCritical": 4,
+    "HazardRating": "High",
+    "ViolLump": "203,Critical,Food not cooled in an acceptable manner [s. 12(a)],Not Repeat|205,Critical,Cold potentially hazardous food stored/displayed above 4 \u00c2\u00b0C. [s. 14(2)],Not Repeat|302,Critical,Equipment/utensils/food contact surfaces not properly washed and sanitized [s. 17(2)],Not Repeat|304,Not Critical,Premises not free of pests [s. 26(a)],Not Repeat|305,Not Critical,Conditions observed that may allow entrance/harbouring/breeding of pests [s. 26(b)(c)],Not Repeat|306,Not Critical,Food premises not maintained in a sanitary condition [s. 17(1)],Not Repeat|308,Not Critical,Equipment/utensils/food contact surfaces are not in good working order [s. 16(b)],Not Repeat",
+    "PHYSICALADDRESS": "11940 Old Yale Rd",
+    "NAME": "Brownsville Bar Marine Pub"
+  },
+  {
+    "TrackingNumber": "A013615    ",
+    "InspectionDate": "20190725",
+    "InspType": "Routine",
+    "NumCritical": 0,
+    "NumNonCritical": 0,
+    "HazardRating": "Low",
+    "ViolLump": "",
+    "PHYSICALADDRESS": "2916 McBride Ave",
+    "NAME": "Alexandra Neighbourhood House (Main Dining Hall)"
+  },
+  {
+    "TrackingNumber": "A013615    ",
+    "InspectionDate": "20180517",
+    "InspType": "Routine",
+    "NumCritical": 0,
+    "NumNonCritical": 0,
+    "HazardRating": "Low",
+    "ViolLump": "",
+    "PHYSICALADDRESS": "2916 McBride Ave",
+    "NAME": "Alexandra Neighbourhood House (Main Dining Hall)"
+  }
+]}
