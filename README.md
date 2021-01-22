@@ -2,4 +2,6 @@ Eatsafe is an application developed for android devices. It utilizes a combinati
 
 Currently, users are able to find restaurants health inspection data through searching restaurants by name, and through google maps, which contains markers to display available restaurants to view.
 
+This application was created using Android Studio and Java.
+
 To run this application, clone the eatsafe folder from https://github.com/geoffhui/eatsafe. Run MainActivity.java found in "./app/src/main/java/com/example/eatsafe" in Android Studio with a device using API 26.
