@@ -8,14 +8,14 @@ This application was created using Android Studio and Java.
 
 # Screenshots of Application
 
-<h4>Main Page</h4>
+Main Page
 ![image](https://user-images.githubusercontent.com/46513334/162034959-59831bf9-07ca-4cf4-b918-567b5e2027c7.png)
 
-<h4>Map Page</h4>
+Map Page
 ![image](https://user-images.githubusercontent.com/46513334/162035030-a3df27ba-f76d-4ad1-a856-ba0be1b09b3a.png)
 
-<h4>Search Page</h4>
+Search Page
 ![image](https://user-images.githubusercontent.com/46513334/162035177-834e7f51-53d1-4913-99be-189ca2c446a2.png)
 
-<h4>Health Inspection Page</h4>
+Health Inspection Page
 ![image](https://user-images.githubusercontent.com/46513334/162035321-a4bfd0e8-5f0d-4f87-8112-f317986084d6.png)
